@@ -12,7 +12,8 @@ Aquí tienes una versión optimizada para **GitHub**, con estilo más visual, us
 
 ## 👥 Integrantes del Equipo
 
-* ✏️ *[Nombre del estudiante]*
+* ✏️ Juan Esteban Grisales Restrepo
+     Sofia Rojo Salazar
 
 ---
 
