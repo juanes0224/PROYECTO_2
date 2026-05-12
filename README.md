@@ -242,5 +242,5 @@ Al ejecutar se muestra un menú interactivo:
 <div align="center">
 
 **Hecho con** ❤️ **para ST0245 — EAFIT University — 2026-1**
-
+**Se utilizó claude como soporte para el desarrollo del codigo y chatgpt para el readme**
 </div>
